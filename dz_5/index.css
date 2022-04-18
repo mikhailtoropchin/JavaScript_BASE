@@ -1,0 +1,19 @@
+#black_square{
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+#white_square{
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+
+
+
+td{
+    
+    text-align: center;
+    
+}
+
